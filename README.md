@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-<a href="https://linkedin.com/in/samuel torres fernandes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel torres fernandes" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samuel-torres-fernandes-a9a069234/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel torres fernandes" height="30" width="40" /></a>
 
 ### Languages and Tools:
 
