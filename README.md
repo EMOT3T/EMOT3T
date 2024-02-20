@@ -1,4 +1,4 @@
-# Hi 👋, I'm Samuel Torres
+
 
 - 🔭 I’m currently working on [Tenenge\OEC](https://www.oec-eng.com/)
 
