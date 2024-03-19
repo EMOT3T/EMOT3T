@@ -1,19 +1,13 @@
-## <?php
-# echo "Hello, World!";
-## ?>
+<img width=100% bottom=50px src="https://github.com/EMOT3T/EMOT3T/assets/158462704/f6fb3d30-7395-41bb-b126-52a038ace3c1"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=-------------------------------------------------------------------------EMOT3T" alt="Typing SVG" /></a>
 
----
+<br>
+<br>
 
-- 📫 How to reach me: [torresfernandessamuel@gmail.com](mailto:torresfernandessamuel@gmail.com)
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=EMOT3T&theme=dark&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
+  <br>
+</div>
 
-### Connect with me:
 
-<a href="https://www.linkedin.com/in/samuel-torres-fernandes-a9a069234/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel torres fernandes" height="30" width="40" /></a>
 
-### Languages and Tools:
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-</p>
